@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "393801acc5dc90b9a468a5edf3f087b57a60f9da",
+    "author": "Scott Chamberlain <sckott@fastmail.com>",
+    "time": "2021-06-11 22:43:44",
+    "files": 1,
+    "merge": false,
+    "message": "s2 to Suggests\n"
+  },
+  "remote": "https://github.com/ropensci/scrubr",
+  "pkg": "scrubr"
+}
